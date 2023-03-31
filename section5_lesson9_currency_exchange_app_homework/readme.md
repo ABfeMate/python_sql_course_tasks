@@ -1,3 +1,5 @@
+This is my solution to a homework task from the [Python and SQLite Course by Alex Smith](https://stepik.org/course/134773/info).
+
 # Currency Exchange App
 
 This currency exchange app allows users to exchange currencies (RUB, USD, EUR) using live exchange rates obtained from the [ExchangeRate-API](https://api.exchangerate-api.com).
