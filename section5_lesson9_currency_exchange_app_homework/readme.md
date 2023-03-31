@@ -15,13 +15,6 @@ This currency exchange app allows users to exchange currencies (RUB, USD, EUR) u
 - Python 3
 - [requests](https://docs.python-requests.org/en/latest/)
 
-## How to run the app
-
-1. Install the required dependencies:
-
-```bash
-pip install requests
-
 ## Usage
 The app will display your current balance and the live exchange rates.
 Choose a currency to buy by entering its corresponding number or ticker.
