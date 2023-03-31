@@ -22,7 +22,7 @@ This currency exchange app allows users to exchange currencies (RUB, USD, EUR) u
 ```bash
 pip install requests
 
-## **Usage**
+## Usage
 The app will display your current balance and the live exchange rates.
 Choose a currency to buy by entering its corresponding number or ticker.
 Enter the amount you want to buy.
@@ -30,5 +30,5 @@ Choose a currency to sell by entering its corresponding number or ticker. (You c
 The app will calculate the amount to sell based on the exchange rate and update your balance.
 If you want to continue exchanging currencies, type 'yes'. To exit the app, type 'no'.
 
-##**License**
+## License
 This project is open-source and available under the MIT License.
