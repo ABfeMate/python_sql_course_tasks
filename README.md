@@ -1,5 +1,5 @@
 # python_sql_course_tasks
-This repository contains my solutions to the exercises from the [Python and SQLite Course by Alex Smith](https://stepik.org/course/134773/info).
+This repository contains my solutions to the homework tasks from the [Python and SQLite Course by Alex Smith](https://stepik.org/course/134773/info).
 
 ## Showcase
 
