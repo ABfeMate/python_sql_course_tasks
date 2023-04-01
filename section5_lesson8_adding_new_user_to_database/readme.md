@@ -1,3 +1,5 @@
+This is my solution to a homework task from the [Python and SQLite Course by Alex Smith](https://stepik.org/course/134773/info).
+
 # User Registration System
 This is a simple command-line user registration system built using Python and SQLite. Users can sign up, log in, log out, and reset their passwords.
 
