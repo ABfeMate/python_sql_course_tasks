@@ -19,6 +19,7 @@ CREATE TABLE IF NOT EXISTS users_data(
     Code INTEGER NOT NULL,
     Logged_in BOOLEAN NOT NULL
 );
+
 The database is created and managed using Python's built-in sqlite3 module.
 
 ## License
